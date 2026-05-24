@@ -45,7 +45,6 @@
 - GitHub: [naveen-kumar2006](https://github.com/naveen-kumar2006)
 - LinkedIn: [Naveen Kumar](https://www.linkedin.com/in/naveen-kumar-t-37a920350/)
 - Instagram: [@_mr.gnk](https://www.instagram.com/_mr.gnk)
-- Email: [Naveen Kumar](mrgnk455@gmail.com)
 
 ---
 
