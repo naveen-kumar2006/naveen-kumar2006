@@ -32,14 +32,6 @@
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveen-kumar2006&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-kumar2006&layout=compact&theme=tokyonight)
-
----
-
 ## Connect With Me
 
 - GitHub: [naveen-kumar2006](https://github.com/naveen-kumar2006)
