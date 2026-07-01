@@ -4,58 +4,45 @@
 🤖 Aspiring Machine Learning Engineer  
 📍 Tamil Nadu, India 🇮🇳
 
-I'm an AI & DS student passionate about Machine Learning, Deep Learning, and MLOps. I enjoy building intelligent applications, solving real-world problems with AI, and continuously improving my skills through hands-on projects.
+I'm passionate about Machine Learning, Deep Learning, and MLOps. I enjoy building AI-powered applications and solving real-world problems through hands-on projects.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech student specializing in Artificial Intelligence & Data Science.
-- 🤖 Passionate about Machine Learning, Deep Learning, and Artificial Intelligence.
-- 💻 Building end-to-end Machine Learning projects using Python.
-- 🧠 Learning and building projects in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
-- 🚀 Learning MLOps technologies such as Docker, MLflow, and Apache Airflow.
-- 🌱 Continuously improving my programming, analytical, and problem-solving skills.
-- 🎯 Career Goal: Become a Machine Learning Engineer and build impactful AI solutions.
+- 🎓 AI & DS undergraduate.
+- 🤖 Focused on Machine Learning and Deep Learning.
+- 💻 Building end-to-end ML projects using Python.
+- 🚀 Learning MLOps (Docker, MLflow, Apache Airflow).
+- 🎯 Goal: Become a Machine Learning Engineer.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+**Languages**
 - Python
 - SQL
 
-### 📊 Data Analysis & Visualization
+**Libraries**
 - NumPy
 - Pandas
 - Matplotlib
-
-### 🤖 Machine Learning
 - Scikit-learn
 
-### 🌐 Backend Development
-- FastAPI
-
-### ⚙️ Tools
-- Git
-- GitHub
-- VS Code
-- Google Colab
-- Jupyter Notebook
-
----
-
-## 📚 Currently Learning
-
-### 🧠 Deep Learning
+**Learning**
 - TensorFlow
 - Keras
 - CNN
 - RNN
 - LSTM
 
-### 🚀 MLOps
+**Tools**
+- FastAPI
+- Git
+- GitHub
+- VS Code
+- Google Colab
 - Docker
 - MLflow
 - Apache Airflow
@@ -66,46 +53,8 @@ I'm an AI & DS student passionate about Machine Learning, Deep Learning, and MLO
 
 - Machine Learning
 - Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Model Deployment with FastAPI
 - MLOps
-- Building Real-World AI Applications
-
----
-
-## 📂 Featured Projects
-
-### 🏠 House Price Prediction
-Predict house prices using Machine Learning regression algorithms.
-
-### 👥 Customer Segmentation
-Cluster customers using K-Means for business insights.
-
-### 🎓 Student Performance Prediction
-Predict student performance using Machine Learning.
-
-### 🧠 CNN Image Classification
-Image classification using Convolutional Neural Networks.
-
-### 💬 Sentiment Analysis
-Text sentiment classification using Deep Learning.
-
-### 🌐 FastAPI Machine Learning API
-Deploy Machine Learning models as REST APIs using FastAPI.
-
-### 📦 End-to-End ML Pipeline
-Train, track, and deploy Machine Learning models using Docker and MLflow.
-
----
-
-## 🎯 Current Goals
-
-- Build production-ready Machine Learning applications.
-- Master Deep Learning.
-- Learn MLOps tools and workflows.
-- Contribute to open-source AI projects.
-- Become a Machine Learning Engineer.
+- Model Deployment
 
 ---
 
@@ -117,8 +66,4 @@ Train, track, and deploy Machine Learning models using Docker and MLflow.
 
 ---
 
-## 💡 Motto
-
-> **"Code • Learn • Build • Repeat."**
-
-*"The best way to predict the future is to build it."*
+> **Code • Learn • Build • Repeat.**
