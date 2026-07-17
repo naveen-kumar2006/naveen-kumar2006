@@ -34,8 +34,6 @@ I'm passionate about Machine Learning, Deep Learning, and MLOps. I enjoy buildin
 - TensorFlow
 - Keras
 - CNN
-- RNN
-- LSTM
 
 **Tools**
 - FastAPI
